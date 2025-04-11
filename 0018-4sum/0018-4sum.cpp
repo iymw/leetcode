@@ -1,14 +1,4 @@
 class Solution {
-   private:
-    bool checkingForDuplicates(vector<vector<int>>& v, vector<int>& temp) {
-        for (auto i : v) {
-            if (i == temp) {
-                return 0;
-            }
-        }
-        return 1;
-    }
-
    public:
     vector<vector<int>> fourSum(vector<int>& nums, int target) {
         vector<vector<int>> v;
@@ -23,10 +13,7 @@ class Solution {
                     } else if (sum > target) {
                         right--;
                     } else {
-                        vector<int> temp = {nums[j], nums[i], nums[left], nums[right]};
-                        if (v.empty() || checkingForDuplicates(v, temp)) {
-                            v.push_back({nums[j], nums[i], nums[left], nums[right]});
-                        }
+                        v.push_back({nums[j], nums[i], nums[left], nums[right]});
                         left++;
                         right--;
                         while (left < right && nums[left - 1] == nums[left]) {
@@ -39,6 +26,8 @@ class Solution {
                 }
             }
         }
+        sort(v.begin(), v.end());
+        v.resize(distance(v.begin(), unique(v.begin(), v.end())));
         return v;
     }
 };
