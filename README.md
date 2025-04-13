@@ -14,12 +14,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/iymw/leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/iymw/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/iymw/leetcode/tree/master/0013-roman-to-integer) |
+| [1013-fibonacci-number](https://github.com/iymw/leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/iymw/leetcode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/iymw/leetcode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/iymw/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [1013-fibonacci-number](https://github.com/iymw/leetcode/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/iymw/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/iymw/leetcode/tree/master/0010-regular-expression-matching) |
+| [1013-fibonacci-number](https://github.com/iymw/leetcode/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -101,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/iymw/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/iymw/leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
