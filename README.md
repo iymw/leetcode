@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/iymw/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/iymw/leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/iymw/leetcode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/iymw/leetcode/tree/master/0043-multiply-strings) |
 | [1013-fibonacci-number](https://github.com/iymw/leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/iymw/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/iymw/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/iymw/leetcode/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/iymw/leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/iymw/leetcode/tree/master/0058-length-of-last-word) |
 ## Sliding Window
 |  |
@@ -175,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/iymw/leetcode/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/iymw/leetcode/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/iymw/leetcode/tree/master/0178-rank-scores) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/iymw/leetcode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
